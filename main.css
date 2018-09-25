@@ -4,7 +4,7 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background: #fff;
+    background: #B6D5F2;
     width: 100vw;
 }
 
@@ -156,25 +156,25 @@ p.details {
 }
 
 #a {
-  border-left: solid 0.5em #F9B4D2;
+  border-left: solid 0.5em #3E77D0;
   top: 100%;
 }
 
 #b {
-  border-left: solid 0.5em #E9F7F9;
+  border-left: solid 0.5em #E9ECE5;
 }
 
 #c {
-  border-left: solid 0.5em #F9B4D2;
+  border-left: solid 0.5em #3E77D0;
 }
 
 #d {
-  border-left: solid 0.5em #E9F7F9;
+  border-left: solid 0.5em #E9ECE5;
   margin-bottom: 2em;
 }
 
 footer {
-  background: #E9F7F9;
+  background: #3E77D0;
   width: 100vw;
   margin-left: -8em;
   height: 3.5em;
