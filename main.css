@@ -131,6 +131,7 @@ img.profile {
   min-width: 50%;
   height: auto;
   margin-left: 32%;
+  border-radius: 0 1em 1em 0;
 }
 
 .right {
