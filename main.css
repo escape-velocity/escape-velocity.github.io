@@ -1,4 +1,4 @@
-html {
+html /*{
     height: 100%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -6,8 +6,14 @@ html {
     background-size: cover;
     background: #B6D5F2;
     width: 100vw;
+}*/
+    {
+        background: url(https://tinyurl.com/yaorozoc) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
-
 body {
     margin-left: 10%;
     margin-right: 9%;
