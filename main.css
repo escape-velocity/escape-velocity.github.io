@@ -157,7 +157,7 @@ p.details {
 
 .case {
   width: 120%;
-  background: #FFF;
+  background: rgba(238, 244, 250, 0.7);
   height: auto;
   padding: 0.5em;
   margin-top: 2em;
