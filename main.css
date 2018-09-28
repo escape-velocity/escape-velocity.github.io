@@ -29,8 +29,8 @@ body {
 .left {
   float: left;
   width: 60%;
-  background: #3E77D0;
-  opacity: 4.6;
+  background: #f0f8c1;
+  opacity: .6;
   border-radius: .5em;
 }
 
@@ -89,7 +89,6 @@ a {
   margin-bottom: 3%;
   margin-top: -0.5em;
   background: #3E77D0;
-  opacity: 4.6;
   border-radius: .5em;
 }
 
