@@ -1,10 +1,11 @@
 html {
-    height: 100%;
+    background: url(https://tinyurl.com/yaorozoc) no-repeat center center fixed;
+    height: 100%; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background: #B6D5F2;
+    /*background: #B6D5F2;*/
     width: 100vw;
 }
     /*{
