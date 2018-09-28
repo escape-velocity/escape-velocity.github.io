@@ -29,7 +29,7 @@ body {
 .left {
   float: left;
   width: 60%;
-  background: #f0f8c1;
+  background: rgba(243, 246, 191, 0.44);
   opacity: .6;
   border-radius: .5em;
 }
@@ -88,7 +88,7 @@ a {
   letter-spacing: 2px;
   margin-bottom: 3%;
   margin-top: -0.5em;
-  background: #3E77D0;
+  background: rgba(105, 156, 235, .45);
   border-radius: .5em;
   margin-left: 5%;
 }
