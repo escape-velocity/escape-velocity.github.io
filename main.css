@@ -73,6 +73,11 @@ body {
   line-height: calc(5rem + 1vw);
 }
 
+.scaling-small {
+  font-size: calc (1rem + 1vw);
+  font-weight: 300;
+}
+
 .page-bottom {
   position: fixed;
   right: 15px;
